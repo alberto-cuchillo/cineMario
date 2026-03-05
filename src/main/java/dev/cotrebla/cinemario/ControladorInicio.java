@@ -14,6 +14,6 @@ public class ControladorInicio {
     public String inicio() {
         log.info("ejecutando el controlador rest");
         log.debug("mas detalle del controlador");
-        return "HolaMundo con Spring Boot...cine..."; 
+        return "HolaMundo con Spring Boot...cine...---"; 
     }
 }
